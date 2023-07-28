@@ -1,14 +1,10 @@
-# Code-Quiz!
-
-Welcome to Code-Quiz! This is a simple yet engaging application that features three coding-related questions. No matter where you are on your coding journey, it's always rewarding to track your progress by answering questions that might have seemed challenging before.
+## Code-Quiz!
+Welcome to Code-Quiz! This is a simple yet engaging application that features a timed coding-related quiz. No matter where you are on your coding journey, it's always rewarding to track your progress by answering questions that might have seemed challenging before.
 
 ## Usage
-
-Getting started with Code-Quiz is easy. Begin by entering your initials or a nickname. This will be saved locally so you can keep track of your high scores. Once you've entered your name, you'll be presented with three questions. After answering all the questions, hit the 'Submit' button to see your score.
+Getting started with Code-Quiz is easy. Begin by entering your initials or a nickname. This will be saved locally so you can keep track of your high scores. Once you've entered your name, click the 'Start Quiz' button, and you'll be presented with a series of questions. After answering all the questions or when the time runs out, hit the 'Submit' button to see your score.
 
 ## Deployed Link
-
-
 
 ## Preview
 
