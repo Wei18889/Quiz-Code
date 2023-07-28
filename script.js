@@ -2,17 +2,17 @@
 const quiz = [
     {
       question: "Which command will generate a new Angular component?",
-      choices: ["A. ng g component", "B. ng generate component", "C. ng new component", "D. Both A and B"],
+      choices: ["A.component", "B.generate component", "C.new component", "D.Both A and B"],
       answer: "D. Both A and B"
     },
     {
       question: "Which library is used for state management in React?",
-      choices: ["A. Redux", "B. React-Redux", "C. React-router-dom", "D. Both A and B"],
+      choices: ["A.Redux", "B.React-Redux", "C.React-router-dom", "D.Both A and B"],
       answer: "D. Both A and B"
     },
     {
       question: "What is Node.js?",
-      choices: ["A. A server-side platform", "B. A JavaScript runtime built on Chrome's V8 JavaScript engine", "C. An open source server environment.", "D. All of the above"],
+      choices: ["A.A server-side platform", "B.A JavaScript runtime built on Chrome's V8 JavaScript engine", "C.An open source server environment.", "D. All of the above"],
       answer: "D. All of the above"
     }
   ];
