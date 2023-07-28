@@ -12,9 +12,8 @@ Getting started with Code-Quiz is easy. Begin by entering your initials or a nic
 
 ## Preview
 
-![Quiz Preview 1](image/Screenshot_2023-07-27_at_6.21.25_PM.png)
-![Quiz Preview 2](image/Screenshot_2023-07-27_at_6.21.45_PM.png)
-
+![Alt text](<image/Screenshot 2023-07-27 at 6.21.25 PM.png>)
+![Alt text](<image/Screenshot 2023-07-27 at 6.21.45 PM.png>)
 ## Customization
 
 Feel free to customize the quiz to suit your needs. You can modify the quiz array in the JavaScript code to add your own questions, choices, and answers. If you want to adjust the time limit for the quiz, simply change the `quizTime` variable.
